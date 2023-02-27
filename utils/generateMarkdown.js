@@ -2,41 +2,41 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ${data.license}
+
   ## Description
-  
   ${data.description}
   
   ## Table of Contents
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
+  - [Credits](#credits)
   
-  ## Installation
-  
+  ## Installation 
   ${data.install}
-  
-  ## Usage
-  
-  ${data.usage}
-  
-  ## Credits
-  
-  ${data.credits}
-  
-  ## License
-  
-  ${data.license}
-  ---
-  ## Badges
-  
-  ![license](https://img.shields.io/github/languages/top/lernantino/badmath)
-  
-  ## Tests
-  
-  ${data.test}
 
+  ## Usage
+  ${data.usage}
+
+
+  ## License
+  ${data.license}
+
+  ## Credits
+  ${data.credits}
+
+  ## Tests
+  ${data.test}
+  
+
+  ## Questions
+  ![Github Link](https://github.com/${data.github})
+
+  If you have any additional questions, please [contact me](mailto:${data.email})
+
+  ---
 `;
 }
 
