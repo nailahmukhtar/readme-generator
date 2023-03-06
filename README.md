@@ -1,9 +1,9 @@
-# dge
+# README Generator
 
-  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  ge
+  Application that helps you generate a README file for your project rep by answering a few questions.
   
   ## Table of Contents
   
@@ -11,27 +11,30 @@
   - [Usage](#usage)
   - [License](#license)
   - [Credits](#credits)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  -
   
   ## Installation 
-  ge
+  To install this application, just clone the repo and run npm i to install dependencies
 
   ## Usage
-  ge
+  Using the application couldn't be easier, just run node index.js in the terminal and answer the prompts!
 
 
   ## License
-  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Credits
-  g
+  Please get in touch if you are interested in contributing
 
   ## Tests
-  gge
+  There are currently no tests in this project.
   
 
   ## Questions
-  [![Github Link](https://github.com/efe)]
+  [Github Link](https://github.com/nailahmukhtar)
 
-  If you have any additional questions, please [contact me](mailto:fef)
+  If you have any additional questions, please [contact me](mailto:nailah@outlook.com)
 
   ---
