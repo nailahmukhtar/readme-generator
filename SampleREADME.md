@@ -5,8 +5,6 @@
   ## Description
   Application that helps you generate a README file for your project rep by answering a few questions.
   
-  To build this application I used the inquirer module to interact with the user, setup prompts that matched the requirements of a good readme and presented the result as a README file.
-  
   ## Table of Contents
   
   - [Installation](#installation)
